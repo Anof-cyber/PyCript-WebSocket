@@ -1,3 +1,12 @@
+PyCript Websocket was created as seperate extension due to main PyCript was created using old burp suite APIs in Python.
+
+Main PyCript Extension now rewritten from scratch with Web Socket support directly inbuilt.
+
+Use: https://github.com/Anof-cyber/PyCript
+
+
+This Repository is not valid anymore and Websocket extension is no moved to main PyCript extension directly.
+
 # PyCript WebSocket
 <p align="center">
   <img src="https://i.ibb.co/KqGXSq0/Py-Cript-Banner.png" />
